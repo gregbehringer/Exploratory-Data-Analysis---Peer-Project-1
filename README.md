@@ -1,2 +1,2 @@
 # JHU-DS-Exploratory-Data-Analysis-Peer-Project-1
-A series of plots with simple code based on the "Electric power consumption" dataset
+A series of R plots with accompanying R code based on the "Electric power consumption" dataset
